@@ -1,0 +1,28 @@
+#one{
+    background-color: aqua;
+    width: 200px;
+    height: 150px;
+}
+#one h3{
+    justify-content: center;
+}
+.two{
+    background-color: red;
+    width: 200px;
+    height: 150px;
+}
+.three{
+    background-color: brown;
+    width: 200px;
+    height: 150px;
+}
+.four{
+    background-color: yellow;
+    width: 200px;
+    height: 150px;
+}
+.five{
+    background-color: green;
+    width: 200px;
+    height: 150px;
+}
